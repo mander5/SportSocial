@@ -1,47 +1,57 @@
-import bg from '../assets/bg.png';
-import chef from '../assets/chef.png';
-import G from '../assets/G.png';
-import gallery01 from '../assets/gallery01.png';
-import gallery02 from '../assets/gallery02.png';
-import gallery03 from '../assets/gallery03.png';
-import gallery04 from '../assets/gallery04.png';
-import knife from '../assets/knife.png';
-import logo from '../assets/logo.png';
-import menu from '../assets/menu.png';
-import overlaybg from '../assets/overlaybg.png';
-import spoon from '../assets/spoon.svg';
-import welcome from '../assets/welcome.png';
-import findus from '../assets/findus.png';
-import laurels from '../assets/laurels.png';
-import award01 from '../assets/award01.png';
-import award02 from '../assets/award02.png';
-import award03 from '../assets/award03.png';
-import award05 from '../assets/award05.png';
-import sign from '../assets/sign.png';
-import quote from '../assets/quote.png';
-import gericht from '../assets/gericht.png';
+import gallery1 from '../assets/gallery1.jpg';
+import gallery2 from '../assets/gallery2.jpg';
+import gallery3 from '../assets/gallery3.jpg';
+import gallery4 from '../assets/gallery4.jpg';
+import gallery5 from '../assets/gallery5.jpg';
+import gallery6 from '../assets/gallery6.jpg';
+import gallery7 from '../assets/gallery7.jpg';
+import gallery8 from '../assets/gallery8.jpg';
+import gallery9 from '../assets/gallery9.jpg';
+import gallery10 from '../assets/gallery10.jpg';
+import gallery11 from '../assets/gallery11.jpg';
+import gallery12 from '../assets/gallery12.jpg';
+import gallery13 from '../assets/gallery13.jpg';
+import gallery14 from '../assets/gallery14.jpg';
+import gallery15 from '../assets/gallery15.jpg';
+import gallery16 from '../assets/gallery16.jpg';
+import gallery17 from '../assets/gallery17.jpg';
+import gallery18 from '../assets/gallery18.jpg';
+import gallery19 from '../assets/gallery19.jpg';
+import gallery20 from '../assets/gallery20.jpg';
+import gallery21 from '../assets/gallery21.jpg';
+import gallery22 from '../assets/gallery22.jpg';
+import gallery23 from '../assets/gallery23.jpg';
+import gallery24 from '../assets/gallery24.jpg';
+import gallery25 from '../assets/gallery25.jpg';
+import LDNlogo from '../assets/LDNlogo.png';
+import slogan from '../assets/slogan.png';
 
 export default {
-  bg,
-  chef,
-  G,
-  gallery01,
-  gallery02,
-  gallery03,
-  gallery04,
-  knife,
-  logo,
-  menu,
-  overlaybg,
-  spoon,
-  welcome,
-  findus,
-  laurels,
-  award01,
-  award02,
-  award03,
-  award05,
-  sign,
-  quote,
-  gericht,
+  gallery1,
+  gallery2,
+  gallery3,
+  gallery4,
+  gallery5,
+  gallery6,
+  gallery7,
+  gallery8,
+  gallery9,
+  gallery10,
+  gallery11,
+  gallery12,
+  gallery13,
+  gallery14,
+  gallery15,
+  gallery16,
+  gallery17,
+  gallery18,
+  gallery19,
+  gallery20,
+  gallery21,
+  gallery22,
+  gallery23,
+  gallery24,
+  gallery25,
+  LDNlogo,
+  slogan,
 };

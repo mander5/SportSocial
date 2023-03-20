@@ -26,7 +26,7 @@ import gallery25 from '../assets/gallery25.jpg';
 import LDNlogo from '../assets/LDNlogo.png';
 import slogan from '../assets/slogan.png';
 
-export default {
+const images = {
   gallery1,
   gallery2,
   gallery3,
@@ -55,3 +55,5 @@ export default {
   LDNlogo,
   slogan,
 };
+
+export default images;
